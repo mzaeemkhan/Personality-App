@@ -1,0 +1,1748 @@
+{
+	"personalities":[
+		{
+			"name":"Analysts",
+			"data": [
+				{
+					"type": "Architect",
+					"personality": "INTJ-A / INTJ-T",
+					"character": "assets/images/new/analyst/intj.svg"
+				},
+				{
+					"type": "Logician",
+					"personality": "INTP-A / INTP-T",
+					"character": "assets/images/new/analyst/intp.svg"
+				},
+				{
+					"type": "Commander",
+					"personality": "ENTJ-A / ENTJ-T",
+					"character": "assets/images/new/analyst/entj.svg"
+				},
+				{
+					"type": "Debater",
+					"personality": "ENTP-A / ENTP-T",
+					"character": "assets/images/new/analyst/entp.svg"
+				}
+			]
+		},
+		{
+			"name":"Diplomats",
+			"data": [
+				{
+					"type": "Advocate",
+					"personality": "INFJ-A / INFJ-T",
+					"character": "assets/images/new/diplomats/infj.svg"
+				},
+				{
+					"type": "Mediator",
+					"personality": "INFP-A / INFP-T",
+					"character": "assets/images/new/diplomats/infp.svg"
+				},
+				{
+					"type": "Protagonist",
+					"personality": "ENFJ-A / ENFJ-T",
+					"character": "assets/images/new/diplomats/enfj.svg"
+				},
+				{
+					"type": "Compaigner",
+					"personality": "ENFP-A / ENFP-T",
+					"character": "assets/images/new/diplomats/enfp.svg"
+				}
+			]
+		},
+		{
+			"name":"Sentinels",
+			"data": [
+				{
+					"type": "Logistician",
+					"personality": "ISTJ-A / ISTJ-T",
+					"character": "assets/images/new/sentinels/istj.svg"
+				},
+				{
+					"type": "Defender",
+					"personality": "ISFJ-A / ISFJ-T",
+					"character": "assets/images/new/sentinels/isfj.svg"
+				},
+				{
+					"type": "Executive",
+					"personality": "ESTJ-A / ESTJ-T",
+					"character": "assets/images/new/sentinels/estj.svg"
+				},
+				{
+					"type": "Consul",
+					"personality": "ESFJ-A / ESFJ-T",
+					"character": "assets/images/new/sentinels/esfj.svg"
+				}
+			]
+		},
+		{
+			"name":"Explorers",
+			"data": [
+				{
+					"type": "Vistuoso",
+					"personality": "ISTP-A / ISTP-T",
+					"character": "assets/images/new/explorers/istp.svg"
+				},
+				{
+					"type": "Adventure",
+					"personality": "ISFP-A / ISFP-T",
+					"character": "assets/images/new/explorers/isfp.svg"
+				},
+				{
+					"type": "Entrepreneur",
+					"personality": "ESTP-A / ESTP-T",
+					"character": "assets/images/new/explorers/estp.svg"
+				},
+				{
+					"type": "Entertainer",
+					"personality": "ESFP-A / ESFP-T",
+					"character": "assets/images/new/explorers/esfp.svg"
+				}
+			]
+		}
+	],
+	"combinations":[
+		{
+			"name":"INTJ",
+			"personality":"The Mastermind",
+			"motto":"Can improve anything",
+			"abr":"It's Not Thoroughly Justified",
+			"character":"assets/icons/mbti_character/intj-icon.png",
+			"svg_character": "assets/images/new/analyst/intj.svg",
+			"overview":"You require independence of thought and desire efficiency.",
+			"population" : "2.1",
+			"male" : "3.3",
+			"female" : "0.9",
+			"careers":{
+				"carname":[
+					"Scientist",
+					"Medical Doctor",
+					"Programmer",
+					"Philosopher"
+				],
+				"carimage":[
+					"assets/images/top_career/scientist.jpg",
+					"assets/images/top_career/paramedic.jpg",
+					"assets/images/top_career/programmer.jpg",
+					"assets/images/top_career/philosopher.png"
+				]
+			},
+			"person":{
+				"personName":[
+					"Elon Musk",
+					"Nikola Tesla",
+					"Isaac Newton",
+					"Mark Zuckerberg"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/elon-musk.jpg",
+					"assets/images/famous_personalities/nikola-tesla.jpg",
+					"assets/images/famous_personalities/isaac-newton.jpg",
+					"assets/images/famous_personalities/mark-zuckerberg.jpg"
+				]
+			},
+			"rules":[
+				"Take in Everything",
+				"When You Get Angry, You Lose",
+				"Respect your Need for Intellectual Compatibility",
+				"Be Accountable for Yourself",
+				"Be Humble",
+				"Assume the Best",
+				"Face Your Weaknesses",
+				"Don't Get Isolated",
+				"Talk Through Your Thoughts",
+				"Feed Your Strengths"
+			],
+			"keyElements":[
+				"Do be direct with the INTJ and expect the truth from them.",
+				"Do offer constructive feedback, INTJs love to improve ideas.",
+				"Do not express an opinion unless you are ready to back it up with sound evidence.",
+				"Do not engage the INTJ in small talk and repetition of statements",
+				"Do ask for clarification of ideas."
+			],
+			"traits":[
+				"Competent",
+				"Idealistic",
+				"Strategists",
+				"Future-oriented",
+				"Intelligent"
+			],
+			"relationship":{
+				"asParent":[
+					"Honest",
+					"caring",
+					"Chaos of Emotions"
+				],
+				"asPartner":[
+					"Self-Lovers",
+					"Hurt partner",
+					"Rites of Dating"
+				],
+				"asFriend":[
+					"serious-minded",
+					"subtle",
+					"sarcastic"
+				]
+			},
+			"strengths":[
+				"Not threatened by conflict or criticism",
+				"Usually self-confident",
+				"Take their relationships and commitments seriously",
+				"Generally extremely intelligent and capable",
+				"Interested in optimizing their relationships"
+			],
+			"weaknesses":[
+				"Not naturally in tune with others feelings",
+				"Tendency to believe that they're always right",
+				"Tendency to be unwilling or unable to accept blame",
+				"Improve everything may be taxing on relationships"
+			]
+		},
+		{
+			"name":"INTP",
+			"personality":"The Logician",
+			"motto":"Always analytical",
+			"abr":"I Need to Ponder",
+			"character":"assets/icons/mbti_character/intp-icon.png",
+			"svg_character": "assets/images/new/analyst/intp.svg",
+			"overview":"You are curious about systems and how things work.",
+			"population" : "3.3",
+			"male" : "4.8",
+			"female" : "1.7",
+			"careers":{
+				"carname":[
+					"Photographer",
+					"Mathematician",
+					"Computer Programmer",
+					"Engineer"
+				],
+				"carimage":[
+					"assets/images/top_career/photograper.jpg",
+					"assets/images/top_career/teacher.jpg",
+					"assets/images/top_career/programmer.jpg",
+					"assets/images/top_career/engineer.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Abraham Lincoln",
+					"Albert Einstein",
+					"Emma Chareollete",
+					"Mark Ruffalo"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/abraham_lincoln.jpg",
+					"assets/images/famous_personalities/albert_einstein.jpg",
+					"assets/images/famous_personalities/emma-chareollete.jpg",
+					"assets/images/famous_personalities/mark-ruffalo.jpg"
+				]
+			},
+			"rules":[
+				"Talk About Your Thoughts",
+				"Listen to Everything",
+				"Face Your Weaknesses",
+				"Feed Your Strengths",
+				"Be Aware of Others",
+				"Recognize Social Principles",
+				"Get Out of Your Comfort Zone",
+				"Identify and Express Your Feelings",
+				"Be Accountable for Yourself",
+				"Assume the Best"
+			],
+			"keyElements":[
+				"INTPs value logic above all else, so maintain logical arguments.",
+				"Do not insult an INTP or dismiss their values: they will get extremely defensive.",
+				"INTPs act like mirrors to those they are around: they reciprocate emotions.",
+				"Plans and schedules do not suit an INTP: give them freedom of action.",
+				"Be honest with an INTP"
+			],
+			"traits":[
+				"Leader",
+				"Theoretical",
+				"Abstract ideas",
+				"Truth Seekers",
+				"Independent"
+			],
+			"relationship":{
+				"asParent":[
+					"emotional",
+					"tolerant",
+					"fair"
+				],
+				"asPartner":[
+					"Cherished",
+					"faithful",
+					"loyal"
+				],
+				"asFriend":[
+					"caring",
+					"altruistic",
+					"genuine"
+				]
+			},
+			"strengths":[
+				"Generally laid-back and willing to defer to their mates",
+				"Approach things which interest them very enthusiastically",
+				"Richly imaginative and creative",
+				"Do not feel personally threatened by conflict or criticism",
+				"Usually are not demanding, with simple daily needs"
+			],
+			"weaknesses":[
+				"Not naturally in tune with others' feelings",
+				"Not naturally good at expressing their own feelings",
+				"Tend to be suspicious and distrusting of others",
+				"Not usually good at practical matters",
+				"They have difficulty leaving bad relationships"
+			]
+		},
+		{
+			"name":"ENTJ",
+			"personality":"The Commander",
+			"motto":"To live is to lead",
+			"abr":"Executives Navigating Though Jobs",
+			"character":"assets/icons/mbti_character/entj-icon.png",
+			"svg_character": "assets/images/new/analyst/entj.svg",
+			"overview":"You focus on the most efficient means of performing a task.",
+			"population" : "1.8",
+			"male" : "2.7",
+			"female" : "0.9",
+			"careers":{
+				"carname":[
+					"Entrepreneur",
+					"Judge",
+					"Politician",
+					"Medical Doctor"
+				],
+				"carimage":[
+					"assets/images/top_career/enterpreneurship.jpg",
+					"assets/images/top_career/judge.jpg",
+					"assets/images/top_career/politician.jpg",
+					"assets/images/top_career/paramedic.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Aristotle",
+					"Bill Gates",
+					"Michael Douglas",
+					"Steven Jobs"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/aristotle.jpg",
+					"assets/images/famous_personalities/bill-gates.jpg",
+					"assets/images/famous_personalities/michael-douglas.jpg",
+					"assets/images/famous_personalities/steven-jobs.jpg"
+				]
+			},
+			"rules":[
+				"Feed Your Strengths",
+				"Face Your Weaknesses",
+				"Talk Time to Find Out How Others Really Think",
+				"Take Time Out To Let The Whole Situation Speak To You",
+				"When You Get Upset, You Lose",
+				"Respect your Need for Intellectual Compatibility",
+				"Be Accountable for Yourself",
+				"Be Humble",
+				"Take a Positive Approach to Differences in People",
+				"Don't Get Obsessed"
+			],
+			"keyElements":[
+				"Do offer promising new ideas, ENTJs love hearing about new concepts.",
+				"Do be direct with the ENTJ.",
+				"Do not make up excuses, ENTJs will not tolerate it.",
+				"Do engage the ENTJ in lively, thoughtful conversations. "
+			],
+			"traits":[
+				"Future-oriented",
+				"Natural leaders",
+				"Independent",
+				"Decision Making",
+				"Hate Mistakes"
+			],
+			"relationship":{
+				"asParent":[
+					"supportive ",
+					"affirming",
+					"comforting"
+				],
+				"asPartner":[
+					"aggressive",
+					"enthusiastic",
+					"serious"
+				],
+				"asFriend":[
+					"bright",
+					"sociable",
+					"confident"
+				]
+			},
+			"strengths":[
+				"Genuinely interested in people's ideas and thoughts",
+				"Enthusiastic and energetic",
+				"Very good with money",
+				"Extremely direct and straightforward",
+				"Verbally fluent"
+			],
+			"weaknesses":[
+				"Their enthusiasm for verbal debates can make them appear argumentative",
+				"Tendency to be challenging and confrontational",
+				"Tend to get involved in \"win-lose\" conversations"
+			]
+		},
+		{
+			"name":"ENTP",
+			"personality":"The Debater",
+			"motto":"One Idea After Another",
+			"abr":"Every New Thought Propels",
+			"character":"assets/icons/mbti_character/entp-icon.png",
+			"svg_character": "assets/images/new/analyst/entp.svg",
+			"overview":"You adept at directing relationships between means and ends.",
+			"population" : "3.2",
+			"male" : "4.0",
+			"female" : "2.4",
+			"careers":{
+				"carname":[
+					"Lawyer",
+					"Entrepreneur",
+					"Engineer",
+					"Scientist"
+				],
+				"carimage":[
+					"assets/images/top_career/lawyer.jpg",
+					"assets/images/top_career/enterpreneurship.jpg",
+					"assets/images/top_career/engineer.jpg",
+					"assets/images/top_career/scientist.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Barack Obama",
+					"Mahmoud Ahmadinejad",
+					"Rowan Atkinson",
+					"Socrates"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/barack-obama.jpg",
+					"assets/images/famous_personalities/mahmoud-ahmadinejad.jpg",
+					"assets/images/famous_personalities/rowan-atkinson.jpg",
+					"assets/images/famous_personalities/socrates.jpg"
+				]
+			},
+			"rules":[
+				"Feed Your Strengths",
+				"Face Your Weaknesses",
+				"Talk Through Your Perceptions",
+				"Relax and Enjoy the View",
+				"Be Aware of Others",
+				"Recognize Norms and Structures Are Necessary",
+				"Get Out of Your Comfort Zone",
+				"Identify and Express Your Feelings",
+				"Be Accountable for Yourself",
+				"Assume the Best, But Be Wary"
+			],
+			"keyElements":[
+				"Do back up ideas with sound evidence because the ENTP will analyze them.",
+				"Ask for explanations on concepts—they will be happy to explain ideas.",
+				"ENTPs seek to challenge the status quo and they can be demanding.",
+				"Be direct with the ENTP."
+			],
+			"traits":[
+				"Project-oriented",
+				"Creative",
+				"Ingenious",
+				"See possibilities",
+				"Enjoy debating"
+			],
+			"relationship":{
+				"asParent":[
+					"proud",
+					"serious",
+					"supportive"
+				],
+				"asPartner":[
+					"committed",
+					"affirming",
+					"supportive"
+				],
+				"asFriend":[
+					"caring",
+					"altruistic",
+					"genuine"
+				]
+			},
+			"strengths":[
+				"Enthusiastic, upbeat, and popular",
+				"Can be very charming",
+				"Excellent communication skills",
+				"Extremely interested in self-improvement",
+				"Laid-back usually easy to get along with"
+			],
+			"weaknesses":[
+				"Extreme dislike of criticism",
+				"Always excited by anything new",
+				"Tendency to not follow through on their plans",
+				"Their love of debate may cause them to provoke arguments",
+				"Big risk-takers not usually good at managing money"
+			]
+		},
+		{
+			"name":"INFJ",
+			"personality":"The Counselor",
+			"motto":"One cause after another",
+			"abr":"Inner Nuances Foster Journeys",
+			"character":"assets/icons/mbti_character/infj-icon.png",
+			"svg_character": "assets/images/new/diplomats/infj.svg",
+			"overview":"You seek meaning in relationships, ideas, and events.",
+			"population" : "1.5",
+			"male" : "1.2",
+			"female" : "1.6",
+			"careers":{
+				"carname":[
+					"Religious Worker",
+					"Professor",
+					"Medical Doctor",
+					"Artist"
+				],
+				"carimage":[
+					"assets/images/top_career/religious_worker.jpg",
+					"assets/images/top_career/teacher.jpg",
+					"assets/images/top_career/nurse.jpg",
+					"assets/images/top_career/actor.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Osama Bin Laden",
+					"Mohammed Atta",
+					"Adolf Hitler",
+					"Plato"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/osama-bin-laden.jpg",
+					"assets/images/famous_personalities/mohamed-atta.jpg",
+					"assets/images/famous_personalities/adolf-hitler.jpg",
+					"assets/images/famous_personalities/plato.jpg"
+				]
+			},
+			"rules":[
+				"Relax",
+				"Assume the Best",
+				"Be Humble",
+				"Be Accountable for Yourself",
+				"Keep Your Eye on the Big Picture",
+				"When You Get Angry, You Lose",
+				"Take in Everything",
+				"Talk Through Your Thoughts",
+				"Face Your Weaknesses",
+				"Assume the Best and Seek for it"
+			],
+			"keyElements":[
+				"Do not criticize the INFJ.",
+				"Be open, honest, and sincere.",
+				"Do offer meaningful feedback.",
+				"Do allow for creativity, INFJs love working on collaborative projects",
+				"Be supportive"
+			],
+			"traits":[
+				"Leaders",
+				"Idealistic",
+				"Caring",
+				"Patient",
+				"Complex"
+			],
+			"relationship":{
+				"asParent":[
+					"caring",
+					"inspirational",
+					"patient"
+				],
+				"asPartner":[
+					"choosy",
+					"supportive",
+					"emotional"
+				],
+				"asFriend":[
+					"idealists",
+					"no patience",
+					"consideration"
+				]
+			},
+			"strengths":[
+				"Warm and affirming by nature",
+				"Dedicated to achieving the ultimate relationship",
+				"Sensitive and concerned for others' feelings",
+				"Have good communication skills",
+				"Take their commitments very seriously"
+			],
+			"weaknesses":[
+				"Tendency to hold back part of themselves",
+				"Not good with day-to-day life necessities",
+				"Extreme dislike of conflict and criticism",
+				"Have very high expectations for themselves and others",
+				"Have difficulty leaving a bad relationship"
+			]
+		},
+		{
+			"name":"INFP",
+			"personality":"The Healer",
+			"motto":"Pursuing ideals",
+			"abr":"Idealists Need Faithful Pursuit",
+			"character":"assets/icons/mbti_character/infp-icon.png",
+			"svg_character": "assets/images/new/diplomats/infp.svg",
+			"overview":"You are creative types and often have a gift for language.",
+			"population" : "4.4",
+			"male" : "4.1",
+			"female" : "4.6",
+			"careers":{
+				"carname":[
+					"Artist",
+					"Counselor",
+					"Musician",
+					"Religious Worker"
+				],
+				"carimage":[
+					"assets/images/top_career/actor.jpg",
+					"assets/images/top_career/counselor.jpg",
+					"assets/images/top_career/musician.jpg",
+					"assets/images/top_career/religious_worker.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Andrew Garfield",
+					"Frodo",
+					"Nicolas Cage",
+					"Shakespeare"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/andrew-garfield.jpg",
+					"assets/images/famous_personalities/frodo-baggins.jpg",
+					"assets/images/famous_personalities/nicolas-cage.jpg",
+					"assets/images/famous_personalities/shakespeare.jpg"
+				]
+			},
+			"rules":[
+				"Express Your Feelings",
+				"Face Your Weaknesses",
+				"Listen to Everything",
+				"Smile at Criticism",
+				"Feed Your Strengths",
+				"Be Aware of Others",
+				"Be Accountable for Yourself",
+				"Be Gentle in Your Expectations",
+				"Be Gentle in Your Expectations",
+				"Assume the Best"
+			],
+			"keyElements":[
+				"Listen attentively to the INFP.",
+				"Do not overtly shun their opinion.",
+				"Be open and flexible."
+			],
+			"traits":[
+				"Good Listener",
+				"Perfectionist",
+				"Loyal",
+				"Devoted",
+				"Future-oriented"
+			],
+			"relationship":{
+				"asParent":[
+					"Warm",
+					"affirming",
+					"devoted"
+				],
+				"asPartner":[
+					"romantic",
+					"idealistic",
+					"loyal"
+				],
+				"asFriend":[
+					"caring",
+					"altruistic",
+					"genuine"
+				]
+			},
+			"strengths":[
+				"Warmly concerned and caring towards others",
+				"Sensitive and perceptive about what others are feeling",
+				"Loyal and committed they want lifelong relationships",
+				"Deep capacity for love and caring"
+			],
+			"weaknesses":[
+				"May tend to be shy and reserved",
+				"Don't like to have their \"space\" invaded",
+				"Extreme dislike of conflict",
+				"Extreme dislike of criticism",
+				"Strong need to receive praise and positive affirmation"
+			]
+		},
+		{
+			"name":"ENFJ",
+			"personality":"The Teacher",
+			"motto":"An inspiration to others",
+			"abr":"Everyone Needs Fulfillment and Joy",
+			"character":"assets/icons/mbti_character/enfj-icon.png",
+			"svg_character": "assets/images/new/diplomats/enfj.svg",
+			"overview":"You seek continuity through harmony and collective values.",
+			"population" : "2.5",
+			"male" : "1.6",
+			"female" : "3.3",
+			"careers":{
+				"carname":[
+					"Coach",
+					"Social Worker",
+					"Professor ",
+					"Human Resources"
+				],
+				"carimage":[
+					"assets/images/top_career/coach.jpg",
+					"assets/images/top_career/salepersion.jpg",
+					"assets/images/top_career/teacher.jpg",
+					"assets/images/top_career/ceo.jpeg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Biden",
+					"Emma Stone",
+					"Nelson Mandela",
+					"Yasser Arafat"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/biden.jpg",
+					"assets/images/famous_personalities/emma-stone.jpg",
+					"assets/images/famous_personalities/nelson-mandela.jpg",
+					"assets/images/famous_personalities/yasser-arafat.jpg"
+				]
+			},
+			"rules":[
+				"Feed Your Strengths",
+				"Face Your Weaknesses",
+				"Express Your Feelings",
+				"Make Decisions",
+				"Smile at Criticism",
+				"Be Aware of Others",
+				"Be Aware of Yourself",
+				"Be Gentle in Your Expectations",
+				"Assume the Best",
+				"When in Doubt, Ask Questions"
+			],
+			"keyElements":[
+				"The ESFJ works best by bringing out the shining qualities in others.",
+				"ESFJs are harmonious people; avoid conflict.",
+				"Provide the ESFJ with work relating to people.",
+				"Offer constructive criticism because ESFJs are extremely sensitive to criticism.",
+				"ESFJs need meaningful feedback."
+			],
+			"traits":[
+				"Friendly",
+				"Honest",
+				"Sensitive",
+				"Value harmony",
+				"Loyal"
+			],
+			"relationship":{
+				"asParent":[
+					"supportive ",
+					"cheerful",
+					"comforting"
+				],
+				"asPartner":[
+					"express love",
+					"warmth",
+					"affirming"
+				],
+				"asFriend":[
+					"sociable",
+					"seek authenticity",
+					"serious"
+				]
+			},
+			"strengths":[
+				"Good verbal communication skills",
+				"Motivational, inspirational",
+				"Warmly affectionate and affirming",
+				"Fun to be with lively sense of humor",
+				"Good money skills"
+			],
+			"weaknesses":[
+				"Tendency to be smothering and over-protective",
+				"Tendency to be controlling and/or manipulative",
+				"Don't pay enough attention to their own needs",
+				"Extremely sensitive to conflict"
+			]
+		},
+		{
+			"name":"ENFP",
+			"personality":"The Campaigner",
+			"motto":"In search of myself",
+			"abr":"Eagerly Noting Fun Playgrounds",
+			"character":"assets/icons/mbti_character/enfp-icon.png",
+			"svg_character": "assets/images/new/diplomats/enfp.svg",
+			"overview":"You are initiators of change, keenly perceptive of possibilities.",
+			"population" : "8.1",
+			"male" : "6.4",
+			"female" : "9.7",
+			"careers":{
+				"carname":[
+					"Journalist ",
+					"Social Work",
+					"Politician",
+					"Scientist"
+				],
+				"carimage":[
+					"assets/images/top_career/journalist.jpg",
+					"assets/images/top_career/social_worker.jpg",
+					"assets/images/top_career/politician.jpg",
+					"assets/images/top_career/scientist.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Daniel Radcliffe",
+					"Muammar Gaddafi",
+					"Osho",
+					"Walt Disney"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/daniel-radcliffe.jpg",
+					"assets/images/famous_personalities/muammar-gaddafi.jpg",
+					"assets/images/famous_personalities/osho.jpg",
+					"assets/images/famous_personalities/walt-diseny.jpg"
+				]
+			},
+			"rules":[
+				"When in Doubt, Ask Questions",
+				"Feed Your Strengths",
+				"Assume the Best",
+				"Face Your Weaknesses",
+				"Be Accountable for Yourself",
+				"Express Your Feelings",
+				"Be Aware of Yourself",
+				"Make Decisions",
+				"Be Aware of Others",
+				"Smile at Criticism"
+			],
+			"keyElements":[
+				"Give the ENFP flexibility for he/she is unhappy with strict scheduling.",
+				"ENFPs bring out the best in other’s—give the ENFP a task involving people-management.",
+				"Do not assign them mundane tasks.",
+				"Be direct with the ENFP."
+			],
+			"traits":[
+				"Future-oriented",
+				"Bright",
+				"Broad skills",
+				"Independent",
+				"Ingenious"
+			],
+			"relationship":{
+				"asParent":[
+					"proud",
+					"serious",
+					"supportive"
+				],
+				"asPartner":[
+					"committed",
+					"affirming",
+					"supportive"
+				],
+				"asFriend":[
+					"sociable",
+					"energetic",
+					"fun-oriented"
+				]
+			},
+			"strengths":[
+				"Good communication skills",
+				"Very perceptive about people's thought",
+				"Motivational, inspirational",
+				"Fun to be with lively sense of humor",
+				"Strive for \"win-win\" situations"
+			],
+			"weaknesses":[
+				"Always excited by anything new",
+				"Their enthusiasm may lead them to be unrealistic",
+				"Hold onto bad relationships",
+				"Extreme dislike of conflict",
+				"Extreme dislike of criticism"
+			]
+		},
+		{
+			"name":"ISTJ",
+			"personality":"The Inspector",
+			"motto":"Organizing everything",
+			"abr":"I Suit Tax Jobs",
+			"character":"assets/icons/mbti_character/istj-icon.png",
+			"svg_character": "assets/images/new/sentinels/istj.svg",
+			"overview":"You keep your lives and environments well-regulated.",
+			"population" : "11.6",
+			"male" : "16.4",
+			"female" : "6.9",
+			"careers":{
+				"carname":[
+					"Accountant",
+					"Scientist",
+					"Teacher",
+					"Business Analyst"
+				],
+				"carimage":[
+					"assets/images/top_career/accountant.jpg",
+					"assets/images/top_career/scientist.jpg",
+					"assets/images/top_career/teacher.jpg",
+					"assets/images/top_career/business_consultant.jpeg"
+				]
+			},
+			"person":{
+				"personName":[
+					"George Washington",
+					"James Gordon",
+					"Queen Elizabeth",
+					"Serevus Snape"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/george-washington.jpg",
+					"assets/images/famous_personalities/james.jpg",
+					"assets/images/famous_personalities/queen-elizabeth-ii.jpg",
+					"assets/images/famous_personalities/severus-snape.jpg"
+				]
+			},
+			"rules":[
+				"Feed Your Strengths",
+				"Face Your Weaknesses",
+				"Talk Through Your Thoughts",
+				"Take in Everything",
+				"Quench Your Desire to Control Others",
+				"Be Aware of Others",
+				"Be Accountable for Yourself",
+				"Be Gentle in Your Expectations",
+				"Assume the Best",
+				"There is Nothing to Fear but Fear Itself"
+			],
+			"keyElements":[
+				"Do not expect an ISTJ to be tactful; always expect the truth.",
+				"Offer constructive criticism, they are always willing to improve upon something",
+				"Show the same devotion as ISTJs do; they value their commitments",
+				"Talk through a problem with the ISTJ"
+			],
+			"traits":[
+				"Living Peaceful",
+				"Hard-working",
+				"Dependent",
+				"Loyal",
+				"Faithful"
+			],
+			"relationship":{
+				"asParent":[
+					"strict",
+					"loyal",
+					"obedience"
+				],
+				"asPartner":[
+					"exciting",
+					"formal",
+					"sensual"
+				],
+				"asFriend":[
+					"loyal",
+					"trustworthy",
+					"honorable "
+				]
+			},
+			"strengths":[
+				"Sensitive and concerned for others' feelings",
+				"Take their relationship roles very seriously",
+				"Usually able to communicate ",
+				"Warm, friendly and affirming by nature",
+				"Extremely good (albeit conservative) with money"
+			],
+			"weaknesses":[
+				"Tendency to believe that they're always right",
+				"Not naturally in-tune with what others are feeling",
+				"Their value for structure may seem rigid to others",
+				"Not likely to give enough praise to their loved ones"
+			]
+		},
+		{
+			"name":"ISFJ",
+			"personality":"The Defender",
+			"motto":"Meeting obligations",
+			"abr":"I Serve my Family Joyfully",
+			"character":"assets/icons/mbti_character/isfj-icon.png",
+			"svg_character": "assets/images/new/sentinels/isfj.svg",
+			"overview":"You are steadfast in handling your  responsibilities.",
+			"population" : "13.8",
+			"male" : "8.1",
+			"female" : "19.4",
+			"careers":{
+				"carname":[
+					"Interior Decorator",
+					"Nurse",
+					"Administrator",
+					"Shopkeeper"
+				],
+				"carimage":[
+					"assets/images/top_career/interior_decorator.jpg",
+					"assets/images/top_career/nurse.jpg",
+					"assets/images/top_career/administrator.jpg",
+					"assets/images/top_career/shopkeeper.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Mother Teresa",
+					"Bruce Willis",
+					"Selena Gomez",
+					"Vin Diesel"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/mother.jpg",
+					"assets/images/famous_personalities/bruce_willis.jpg",
+					"assets/images/famous_personalities/Selena_Gomez.jpg",
+					"assets/images/famous_personalities/vin_diesel.jpg"
+				]
+			},
+			"rules":[
+				"Feed Your Strengths",
+				"Face Your Weaknesses",
+				"Discover the World of Others",
+				"Don't be too hasty",
+				"Look Carefully at the World",
+				"Try to Let Others Take Some of the Load",
+				"Be Accountable to Others",
+				"Don't Hem Yourself in",
+				"Assume the Best and Seek for it",
+				"When in Doubt, Ask For Help"
+			],
+			"keyElements":[
+				"ISFJs prefer to “learn by doing”.",
+				"Show affirmation as ISFJs generally do not give themselves enough credit.",
+				"Provide Meaningful Feedback.",
+				"Follow procedure as ISFJs are traditionalists"
+			],
+			"traits":[
+				"Observer",
+				"Excellent Memory",
+				"Rich",
+				"Traditional",
+				"Dependent"
+			],
+			"relationship":{
+				"asParent":[
+					"natural",
+					"dutiful",
+					"arrogant"
+				],
+				"asPartner":[
+					"intense",
+					"committed",
+					"kindness"
+				],
+				"asFriend":[
+					"Give Priority",
+					"spending time",
+					"dependability"
+				]
+			},
+			"strengths":[
+				"Warm, friendly and affirming by nature",
+				"Service-oriented, wanting to please others",
+				"Honor their commitments",
+				"Put effort to fulfill their duties and obligations",
+				"Excellent organizational capabilities"
+			],
+			"weaknesses":[
+				"Don't pay enough attention to their own needs",
+				"May have difficulty branching out into new territory",
+				"Extreme dislike of conflict and criticism",
+				"Have difficulty leaving a bad relationship"
+			]
+		},
+		{
+			"name":"ESTJ",
+			"personality":"The Supervisor",
+			"motto":"Taking care of business",
+			"abr":"Elevated Stress Tightens Jaw",
+			"character":"assets/icons/mbti_character/estj-icon.png",
+			"svg_character": "assets/images/new/sentinels/estj.svg",
+			"overview":"You take a practical approach to life guided by your focus on realism.",
+			"population" : "8.7",
+			"male" : "11.2",
+			"female" : "6.3",
+			"careers":{
+				"carname":[
+					"Accountant",
+					"Engineer",
+					"Scientist",
+					"Banker"
+				],
+				"carimage":[
+					"assets/images/top_career/accountant.jpg",
+					"assets/images/top_career/engineer.jpg",
+					"assets/images/top_career/scientist.jpg",
+					"assets/images/top_career/business_consultant.jpeg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Emma Watson",
+					"Michelle Obama",
+					"Saddam Hussain",
+					"Violet Crawley"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/emma-watson.jpg",
+					"assets/images/famous_personalities/michelle-obama.jpg",
+					"assets/images/famous_personalities/saddam-hussein.jpg",
+					"assets/images/famous_personalities/violet-crawley.jpg"
+				]
+			},
+			"rules":[
+				"Feed Your Strengths",
+				"Face Your Weaknesses",
+				"Talk Through the Facts",
+				"Take in Everything",
+				"When You Get Angry, You Lose",
+				"Be Yourself in Relationships",
+				"Be Accountable for Yourself",
+				"Be Humble",
+				"Resist the Urge to Control Others",
+				"Spend Some Time Alone"
+			],
+			"keyElements":[
+				"Be open and honest with the ESTJ.",
+				"Do be organized, ESTJs are impatient with inefficiency.",
+				"Do not criticize the ESTJ’s values.",
+				"Offer constructive criticism"
+			],
+			"traits":[
+				"Leader",
+				"Dependable",
+				"Loyal",
+				"Hard-working",
+				"Potential"
+			],
+			"relationship":{
+				"asParent":[
+					"impatience",
+					"strict",
+					"practical"
+				],
+				"asPartner":[
+					"dependable",
+					"strong",
+					"traditional"
+				],
+				"asFriend":[
+					"sharp",
+					"witty",
+					"upbeat"
+				]
+			},
+			"strengths":[
+				"Generally enthusiastic, upbeat and friendly",
+				"Stable and dependable",
+				"Put forth a lot of effort to fulfill their duties",
+				"Responsible about taking care of day-to-day practical",
+				"Not personally threatened by conflict or criticism"
+			],
+			"weaknesses":[
+				"Tendency to believe that they are always right",
+				"Tendency to need to always be in charge",
+				"Impatient with inefficiency and sloppiness",
+				"Not naturally in tune with what others are feeling",
+				"Not naturally good at expressing their feelings"
+			]
+		},
+		{
+			"name":"ESFJ",
+			"personality":"The Provider",
+			"motto":"Getting things done",
+			"abr":"Especially Satisfied Fulfilling Jobs",
+			"character":"assets/icons/mbti_character/esfj-icon.png",
+			"svg_character": "assets/images/new/sentinels/esfj.svg",
+			"overview":"You can project warmth with a genuine interest in other’s well-being.",
+			"population" : "12",
+			"male" : "7.5",
+			"female" : "16.9",
+			"careers":{
+				"carname":[
+					"Nursing",
+					"Teaching",
+					"Administrators",
+					"Religious Worker"
+				],
+				"carimage":[
+					"assets/images/top_career/nurse.jpg",
+					"assets/images/top_career/teacher.jpg",
+					"assets/images/top_career/administrator.jpg",
+					"assets/images/top_career/religious_worker.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Ariana Grande",
+					"Selena Gomez",
+					"Vin Diesel",
+					"Woody Harrelson"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/ariana-grande.jpg",
+					"assets/images/famous_personalities/Selena_Gomez.jpg",
+					"assets/images/famous_personalities/vin_diesel.jpg",
+					"assets/images/famous_personalities/woody-harrelson.jpg"
+				]
+			},
+			"rules":[
+				"Feed Your Strengths",
+				"Face Your Weaknesses",
+				"Discover the World of Others",
+				"Don't be too hasty",
+				"Look Carefully at the World",
+				"Try to Let Others Take Some of the Load",
+				"Be Accountable to Others",
+				"Don't Hem Yourself in",
+				"Assume the Best and Seek for it",
+				"When in Doubt, Ask For Help"
+			],
+			"keyElements":[
+				"Follow protocol when working with an ESFJ.",
+				"Recall that the ESFJ will always take the feelings of others into account.",
+				"ESFJs prefer to be followers. However, if they are in a high position, respect them.",
+				"Be direct and concise with orders.",
+				"Do not insult/criticize their values."
+			],
+			"traits":[
+				"Loving",
+				"Sympathetic",
+				"Very cooperative",
+				"Practical",
+				"Down-to-earth"
+			],
+			"relationship":{
+				"asParent":[
+					"dutiful",
+					"comfort",
+					"practical"
+				],
+				"asPartner":[
+					"emotional",
+					"scheduled",
+					"energetic"
+				],
+				"asFriend":[
+					"caring",
+					"altruistic",
+					"genuine"
+				]
+			},
+			"strengths":[
+				"Put forth a lot of effort to fulfill their duties",
+				"Warm, friendly and affirming by nature",
+				"Service-oriented, they want to please others",
+				"Take their commitments very seriously",
+				"Generally very good money managers"
+			],
+			"weaknesses":[
+				"Generally uncomfortable with change",
+				"Extreme dislike of conflict and criticism",
+				"Need positive affirmation to feel good about themselves",
+				"Have very difficult time accepting the end of a relationship"
+			]
+		},
+		{
+			"name":"ISTP",
+			"personality":"The Craftsman",
+			"motto":"Working with facts and hands",
+			"abr":"I See The Problem",
+			"character":"assets/icons/mbti_character/istp-icon.png",
+			"svg_character": "assets/images/new/explorers/istp.svg",
+			"overview":"You excel at analyzing situations to reach the heart of a problem.",
+			"population" : "5.4",
+			"male" : "8.5",
+			"female" : "2.3",
+			"careers":{
+				"carname":[
+					"Electrician",
+					"Military",
+					"Pilot",
+					"Designer"
+				],
+				"carimage":[
+					"assets/images/top_career/electrician.jpg",
+					"assets/images/top_career/military.jpg",
+					"assets/images/top_career/pilot.jpg",
+					"assets/images/top_career/designer.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Aragorn",
+					"Bronn",
+					"Melania Trump",
+					"Snopp Dogg"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/aragorn.jpg",
+					"assets/images/famous_personalities/bronn.jpg",
+					"assets/images/famous_personalities/melania-trump.jpg",
+					"assets/images/famous_personalities/Snoop-Dogg.jpg"
+				]
+			},
+			"rules":[
+				"Talk About Your Thoughts",
+				"Don't Be Afraid to Love",
+				"Face Your Weaknesses",
+				"Recognize Social Principles",
+				"Feed Your Strengths",
+				"Respect Your Need for Action",
+				"It's OK to Get Out of your Comfort Zone",
+				"Identify and Express Your Feelings",
+				"Be Aware of Others",
+				"Assume the Best"
+			],
+			"keyElements":[
+				"Respect the personal beliefs of an ISTP.",
+				"Respect the personal beliefs of an ISTP.",
+				"ISTPs are extremely spontaneous.",
+				"They are doers, not thinkers: ISTPs prefer hands-on projects."
+			],
+			"traits":[
+				"Practical",
+				"Realistic",
+				"Loyal",
+				"Up ToDate",
+				"Competent"
+			],
+			"relationship":{
+				"asParent":[
+					"Flexible",
+					"freedom",
+					"sensible"
+				],
+				"asPartner":[
+					"loving",
+					"exciting",
+					"spontaneity"
+				],
+				"asFriend":[
+					"enthusiastic",
+					"childlike",
+					"frivolous"
+				]
+			},
+			"strengths":[
+				"Usually self-confident",
+				"Generally optimistic and fun to be with",
+				"Practical and realistic",
+				"Are not threatened by conflict or criticism",
+				"Able to leave a relationship with relative"
+			],
+			"weaknesses":[
+				"Living entirely in the present",
+				"Not naturally good at expressing feelings",
+				"Not tuned in to what others are feeling",
+				"Tendency to be overly private",
+				"Need a lot of personal space"
+			]
+		},
+		{
+			"name":"ISFP",
+			"personality":"The Adventurer",
+			"motto":"Marching to a different drummer",
+			"abr":"I'm Sincerely Fulfilling my Purpose",
+			"character":"assets/icons/mbti_character/isfp-icon.png",
+			"svg_character": "assets/images/new/explorers/isfp.svg",
+			"overview":"You tend to examine the world with all five of your senses.",
+			"population" : "8.8",
+			"male" : "7.6",
+			"female" : "9.9",
+			"careers":{
+				"carname":[
+					"Artist",
+					"Social Worker",
+					"Counselor",
+					"Designer"
+				],
+				"carimage":[
+					"assets/images/top_career/actor.jpg",
+					"assets/images/top_career/social_worker.jpg",
+					"assets/images/top_career/counselor.jpg",
+					"assets/images/top_career/designer.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Brad Pitt",
+					"Lady Gaga",
+					"Micheal Jackson",
+					"Pablo Picasso"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/brad-pitt.jpg",
+					"assets/images/famous_personalities/lady-gaga.jpg",
+					"assets/images/famous_personalities/Michael-Jackson.jpg",
+					"assets/images/famous_personalities/Pablo-Picasso.jpg"
+				]
+			},
+			"rules":[
+				"Express Your Feelings",
+				"Listen to Everything",
+				"Feed Your Strengths",
+				"Smile at Criticism",
+				"Feed Your Strengths",
+				"Be Aware of Others",
+				"Be Accountable for Yourself",
+				"Be Gentle in Your Expectations",
+				"Assume the Best",
+				"When in Doubt, Ask Questions"
+			],
+			"keyElements":[
+				"ISFPs can see the positive in everyone but may need positive feedback for themselves.",
+				"Do not criticize the ISFP’s ideas and opinions for they do not respond well to negativity.",
+				"Assign projects that foster creativity without deadlines.",
+				"Approach the ISFP by being direct and honest."
+			],
+			"traits":[
+				"Appreciating",
+				"Sensitive",
+				"Faithful",
+				"Loyal",
+				"Individualistic"
+			],
+			"relationship":{
+				"asParent":[
+					"Flexible",
+					"uncontrolled",
+					"relaxed"
+				],
+				"asPartner":[
+					"emotional",
+					"caring",
+					"light-hearted"
+				],
+				"asFriend":[
+					"enthusiastic",
+					"frivolous",
+					"hedonistic"
+				]
+			},
+			"strengths":[
+				"Warm, friendly and affirming by nature",
+				"Sensitive and perceptive about what others are feeling",
+				"Loyal and committed they want lifelong relationships",
+				"Good at dealing with practical",
+				"Flexible and laid-back"
+			],
+			"weaknesses":[
+				"Not good at long-range financial (or other) planning",
+				"Extreme dislike of conflict and criticism",
+				"Need to have their own space",
+				"Not tuned in to what others are feeling",
+				"May be slow to show their affection with words"
+			]
+		},
+		{
+			"name":"ESTP",
+			"personality":"The Entrepreneur",
+			"motto":"Focus on the here and now",
+			"abr":"Extraordinary Smooth Talking Persuader",
+			"character":"assets/icons/mbti_character/estp-icon.png",
+			"svg_character": "assets/images/new/explorers/estp.svg",
+			"overview":"You hands-on learners who live in the moment.",
+			"population" : "4.3",
+			"male" : "5.6",
+			"female" : "3.0",
+			"careers":{
+				"carname":[
+					"Paramedic",
+					"Technical Supporter",
+					"Entrepreneur",
+					"Athlete"
+				],
+				"carimage":[
+					"assets/images/top_career/paramedic.jpg",
+					"assets/images/top_career/business_consultant.jpeg",
+					"assets/images/top_career/enterpreneurship.jpg",
+					"assets/images/top_career/athlete.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Angelina Jolie",
+					"Donald Trump",
+					"Megan Fox",
+					"Miley Cyrus"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/angelina-jolie.jpg",
+					"assets/images/famous_personalities/trump.jpg",
+					"assets/images/famous_personalities/megan-fox.jpg",
+					"assets/images/famous_personalities/miley-cyrus.jpg"
+				]
+			},
+			"rules":[
+				"Assume the Best",
+				"Feed Your Strengths",
+				"Be Aware that You can Fail, and that it is OK",
+				"Face Your Weaknesses",
+				"It's OK to Get Out of your Comfort Zone",
+				"Talk About Your Thoughts",
+				"Recognize the Differences in Others",
+				"Don't Be Afraid to Show Emotion",
+				"Respect Your Need for Action",
+				"Identify and Express Your Feelings"
+			],
+			"keyElements":[
+				"Give tasks which provide immediate results.",
+				"Do not expect the ESTP to follow a set plan: they will complete their work in their own fashion.",
+				"Allow this type to be the initial motivator of a project.",
+				"Let the ESTP to work with their own methods rather than stifle their creativity."
+			],
+			"traits":[
+				"Action-oriented",
+				"Energetic",
+				"Practical",
+				"Adaptable",
+				"Resourceful"
+			],
+			"relationship":{
+				"asParent":[
+					"quick-acting",
+					"friends",
+					"gruff"
+				],
+				"asPartner":[
+					"enthusiastic",
+					"friendly",
+					"charming"
+				],
+				"asFriend":[
+					"loyal",
+					"fun-loving",
+					"talkative"
+				]
+			},
+			"strengths":[
+				"Richly imaginative and creative",
+				"Can be quite charming",
+				"Witty, clever, and popular",
+				"Earthy and sensual",
+				"Not personally threatened by conflict or criticism."
+			],
+			"weaknesses":[
+				"May inadvertently hurt others with insensitive language",
+				"May be very good with money",
+				"They're not usually good long-range planners."
+			]
+		},
+		{
+			"name":"ESFP",
+			"personality":"The Entertainer",
+			"motto":"If there’s no excitement, we’ll create it",
+			"abr":"Entertaining, Sparkling, Friendly Person",
+			"character":"assets/icons/mbti_character/esfp-icon.png",
+			"svg_character": "assets/images/new/explorers/esfp.svg",
+			"overview":"You live in the moment, experiencing life to the fullest.",
+			"population" : "8.5",
+			"male" : "6.9",
+			"female" : "10.1",
+			"careers":{
+				"carname":[
+					"Artist",
+					"Performer",
+					"Sales Representative",
+					"Counselor"
+				],
+				"carimage":[
+					"assets/images/top_career/actor.jpg",
+					"assets/images/top_career/performer.jpg",
+					"assets/images/top_career/accountant.jpg",
+					"assets/images/top_career/counselor.jpg"
+				]
+			},
+			"person":{
+				"personName":[
+					"Justin Bieber",
+					"Lindsay Lohan",
+					"Serena Williams",
+					"Will Smith"
+				],
+				"personImage":[
+					"assets/images/famous_personalities/justin-bieber.jpg",
+					"assets/images/famous_personalities/lindsay-lohan.jpg",
+					"assets/images/famous_personalities/serena-williams.jpg",
+					"assets/images/famous_personalities/will-smith.jpg"
+				]
+			},
+			"rules":[
+				"Feed Your Strengths",
+				"Face Your Weaknesses",
+				"Express Your Feelings",
+				"Listen to Everything",
+				"Smile at Criticism",
+				"Be Aware of Others",
+				"Be Accountable for Yourself",
+				"Be Gentle in Your Expectations",
+				"Assume the Best",
+				"When in Doubt, Ask Questions"
+			],
+			"keyElements":[
+				"ESFPs prefer to be in the spotlight.",
+				"Do provide the ESFP with new things to work on because they will get bored easily.",
+				"Give the ESFP some room to do their own thing; they prefer to go with the flow.",
+				"Do not start conflict as ESFPs will hold grudges against you"
+			],
+			"traits":[
+				"Loving",
+				"Realistic",
+				"Practical",
+				"Funny",
+				"Independent"
+			],
+			"relationship":{
+				"asParent":[
+					"disciplined",
+					"upbeat",
+					"affectionate"
+				],
+				"asPartner":[
+					"sensual",
+					"charming",
+					"convincing"
+				],
+				"asFriend":[
+					"enthusiastic",
+					"effervescent",
+					"fun-oriented"
+				]
+			},
+			"strengths":[
+				"Enthusiastic and fun-loving",
+				"People are drawn towards them",
+				"Earthy and sensual",
+				"Able to take care of daily needs",
+				"Artistic and creative"
+			],
+			"weaknesses":[
+				"May be frivolous and risky with money",
+				"Tend to be materialistic",
+				"Extreme dislike of criticism",
+				"Likely to ignore conflict situations"
+			]
+		}
+	],
+	"test":[
+		{
+			"question":"When you are with a group of people, would you usually rather",
+			"alpha":"Join in the talk of the group",
+			"beta":"Talk individually with people you know well"
+		},
+		{
+			"question":"ARE YOU USUALLY",
+			"alpha":"A “GOOD MIXER” WITH GROUPS OF PEOPLE",
+			"beta":"RATHER QUIET AND RESERVED"
+		},
+		{
+			"question":"AMONG YOUR FRIENDS ARE YOU",
+			"alpha":"FULL OF NEWS ABOUT EVERYBODY",
+			"beta":"ONE OF THE LAST TO HEAR WHAT IS GOING ON"
+		},
+		{
+			"question":"At a party do you",
+			"alpha":"Interact with many, including strangers",
+			"beta":"Interact with a few, known to you"
+		},
+		{
+			"question":"In your social groups do you",
+			"alpha":"Keep abreast of other’s happenings",
+			"beta":"Get behind on the news"
+		},
+		{
+			"question":"Do you usually get along better with",
+			"alpha":"Realistic people",
+			"beta":"Imaginative people"
+		},
+		{
+			"question":"If you were a teacher, would you rather teach",
+			"alpha":"Fact courses",
+			"beta":"Courses involving theory"
+		},
+		{
+			"question":"DO YOU ADMIRE MORE THE PEOPLE WHO ARE",
+			"alpha":"NORMAL-ACTING TO NEVER MAKE THEMSELVES THE CENTER OF ATTENTION",
+			"beta":"TOO ORIGINAL AND INDIVIDUAL TO CARE WHETHER THEY ARE THE CENTER OF ATTENTION"
+		},
+		{
+			"question":"Are you more interested in",
+			"alpha":"What is actual",
+			"beta":"What is possible"
+		},
+		{
+			"question":"Are visionaries",
+			"alpha":"somewhat annoying",
+			"beta":"rather fascinating"
+		},
+		{
+			"question":"Which word in the pair appeals to you more",
+			"alpha":"Analyze",
+			"beta":"Sympathize"
+		},
+		{
+			"question":"Which word in the pair appeals to you more",
+			"alpha":"Foresight",
+			"beta":"Compassion"
+		},
+		{
+			"question":"DO YOU MORE OFTEN LET",
+			"alpha":"YOUR HEART RULE YOUR HEAD",
+			"beta":"YOUR HEAD RULE YOUR HEART"
+		},
+		{
+			"question":"Are you more impressed by",
+			"alpha":"Principles",
+			"beta":"Emotions"
+		},
+		{
+			"question":"In approaching others is your inclination to be somewhat",
+			"alpha":"Objective",
+			"beta":"Personal"
+		},
+		{
+			"question":"Do you prefer to",
+			"alpha":"Arrange dates, parties, etc., well in advance",
+			"beta":"Be free to do whatever looks like fun when the time comes"
+		},
+		{
+			"question":"Does the idea of making a list of what you should get done over a weekend",
+			"alpha":"Appeal to you",
+			"beta":"Leave you cold"
+		},
+		{
+			"question":"WHEN YOU HAVE A SPECIAL JOB TO DO, DO YOU LIKE TO",
+			"alpha":"ORGANIZE IT CAREFULLY BEFORE YOU START",
+			"beta":"FIND OUT WHAT IS NECESSARY AS YOU GO ALONG"
+		},
+		{
+			"question":"Are you more",
+			"alpha":"Punctual",
+			"beta":" Leisurely"
+		},
+		{
+			"question":"Do you want things",
+			"alpha":"Settled and decided",
+			"beta":"Unsettled and undecided"
+		}
+	],
+	"Indicator":
+	{
+		"E": "You focused on the world outside the self.",
+		"I": "You focused on inside world.",
+		"S": "You focused on the present and have a here-and-now mentality.",
+		"N": "You focused to live in the future and are immersed in the world of possibilities",
+		"T": "You focused on facts and concrete information.",
+		"F": "You focused on hearts more than their heads – sometimes even without realizing it.",
+		"J": "You feel best when they have a clear course of action ahead.",
+		"P": "You adept at spotting unexpected opportunities."
+	}
+}
